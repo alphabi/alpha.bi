@@ -11,6 +11,8 @@ body {
 }
 figure {
   font-size: 2em;
+}
+.ab0, .ab1 {
   font-weight: bold;
   font-family: 'Roboto Mono', monospace;
 }
