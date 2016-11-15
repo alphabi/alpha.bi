@@ -12,7 +12,7 @@ body {
 figure {
   font-size: 2em;
 }
-.ab0, .ab1 {
+.ab0, .ab1, figure {
   font-weight: bold;
   font-family: 'Roboto Mono', monospace;
 }
@@ -27,4 +27,16 @@ a:link {
 }
 a:visited {
   color: #88f;
+}
+.hash {
+  font-size: 1.5em;
+}
+.quartet {
+  display: inline-block;
+  margin-right: 3px;
+}
+.bits {
+  display: block;
+  margin: 0;
+  font-size: .25em;
 }
