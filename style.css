@@ -1,5 +1,5 @@
 html {
-  background: url("a0z1-tile.svg");
+  background: #333 url("a0z1-tile.svg");
 }
 body {
   max-width: 800px;
