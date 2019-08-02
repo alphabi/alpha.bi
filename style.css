@@ -15,6 +15,7 @@ h1 {
 }
 figure {
   font-size: 2em;
+  margin: 1em 32px;
 }
 .ab0, .ab1, figure {
   font-weight: bold;
